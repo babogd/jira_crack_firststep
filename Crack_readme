@@ -1,0 +1,3 @@
+E:\Software\jira\atlassian-jira\WEB-INF\atlassian-bundled-plugins\atlassian-universal-plugin-manager-plugin-2.22.9.jar
+先用jd_gui生成反编译源码，然后与该文本夹下的其他jar包一起在Eclipse中编译，只需要LicenseManger.java和Version2LicenseDecoder.java生成的class,替换掉之前jar中的class即可
+破解
